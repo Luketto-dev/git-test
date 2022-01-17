@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Luketto-dev/git-test/issues"
   },
-  "homepage": "https://github.com/Luketto-dev/git-test#readme"
+  "homepage": "https://github.com/Luketto-dev/git-test#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
