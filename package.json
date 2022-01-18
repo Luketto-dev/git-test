@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Luketto-dev/git-test#readme",
   "dependencies": {
     "bootstrap": "^5.1.3",
+    "chartjs": "^0.3.24",
     "jquery": "^3.6.0"
   }
 }
